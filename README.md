@@ -1,6 +1,6 @@
 ### Seja bem vindo ao meu Git!!!
 
-Sou estudande de engenharia aeroespacial pela UnB.
+Sou estudande de engenharia aeroespacial pela UnB./n
 Voce pode me pedir ajuda com softwares de modelagem 3D como Catia e solidworks :fire:
 Atuamente estou aprendendo Phyton em geral, Git e a contribuir na comunidade open source, entao pode me ajudar com essas coisa se quiser :persevere:
 Voce pode falar comiigo pele meu email [email](keterly.eckhardt@gmail.com) e me chamar por qualquer pronome.
