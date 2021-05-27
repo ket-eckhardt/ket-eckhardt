@@ -7,7 +7,7 @@ Voce pode falar comiigo pele meu email [email](keterly.eckhardt@gmail.com) e me 
 
 Esse README eh patrocinado pela BOSS uhuuu, onde sou mentorada :blush:
 
-<!--
+
 **ket-eckhardt/ket-eckhardt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
