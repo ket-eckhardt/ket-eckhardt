@@ -1,6 +1,13 @@
-### Hi there 👋
+### Seja bem vindo ao meu Git!!!
 
+Sou estudande de engenharia aeroespacial pela UnB.
+Voce pode me pedir ajuda com softwares de modelagem 3D como Catia e solidworks :fire:
+Atuamente estou aprendendo Phyton em geral, Git e a contribuir na comunidade open source, entao pode me ajudar com essas coisa se quiser :persevere:
+Voce pode falar comiigo pele meu email [email](keterly.eckhardt@gmail.com) e me chamar por qualquer pronome.
 
+Esse README eh patrocinado pela BOSS uhuuu, onde sou mentorada :blush:
+
+<!--
 **ket-eckhardt/ket-eckhardt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +20,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
